@@ -16,6 +16,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-D34516?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004483?style=flat&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
